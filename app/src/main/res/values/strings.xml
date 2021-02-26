@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherPOC</string>
+    <string name="look_up">Lookup</string>
+    <string name="hint_city_name">City Name</string>
+    <string name="home_fragment_title">Weather App</string>
+    <string name="weather_list">City Name</string>
+    <string name="splash_title">Welcome to City Weather</string>
+</resources>
